@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="oeweather_icon">Изображение погоды</string>
+    <string name="city_name">Екатеринбург</string>
+    <string name="temperature_label">Температура</string>
+    <string name="humidity_label">Влажность</string>
+    <string name="wind_speed">Скорость ветра</string>
+    <string name="pressure_label">Давление</string>
+    <string name="weather_settings_label">CITY</string>
+    <string name="back_button_label">Назад</string>
+    <string name="ekaterinburg">Ekaterinburg</string>
+</resources>

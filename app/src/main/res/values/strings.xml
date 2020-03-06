@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">OEWeatherApp</string>
+    <string name="weather_settings_label" translatable="false">CITY</string>
+    <string name="ekaterinburg">Ekaterinburg</string>
+</resources>
